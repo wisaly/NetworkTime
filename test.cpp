@@ -8,5 +8,5 @@ int main(int argc, char *argv[])
 
     qDebug() << NetworkTime::current();
 
-    return a.exec();
+    return 0;
 }
