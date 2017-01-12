@@ -25,6 +25,7 @@
 #include <QtEndian>
 #include <QUdpSocket>
 #include <QHostAddress>
+#include <QHostInfo>
 
 namespace qntp{
     /* Code in namespace qntp is modified from QNtp, a library that implements NTP protocol.
